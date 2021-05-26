@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="next">Следующий вопрос</string>
+    <string name="start">Старт</string>
+    <string name="question">Вопрос</string>
+    <string name="allQuestions">Всего вопросов: </string>
+    <string name="correctAnswers">Правильных ответов: </string>
+    <string name="successPercentage">Процент успеха: </string>
+</resources>
